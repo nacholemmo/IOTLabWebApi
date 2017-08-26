@@ -1,0 +1,10 @@
+D:\Proyectos\Iot-Lab\IOTLabWebApi\obj\Debug\netcoreapp2.0\IOTLabWebApi.csproj.CoreCompileInputs.cache
+D:\Proyectos\Iot-Lab\IOTLabWebApi\obj\Debug\netcoreapp2.0\IOTLabWebApi.AssemblyInfoInputs.cache
+D:\Proyectos\Iot-Lab\IOTLabWebApi\obj\Debug\netcoreapp2.0\IOTLabWebApi.AssemblyInfo.cs
+D:\Proyectos\Iot-Lab\IOTLabWebApi\bin\Debug\netcoreapp2.0\IOTLabWebApi.deps.json
+D:\Proyectos\Iot-Lab\IOTLabWebApi\bin\Debug\netcoreapp2.0\IOTLabWebApi.runtimeconfig.json
+D:\Proyectos\Iot-Lab\IOTLabWebApi\bin\Debug\netcoreapp2.0\IOTLabWebApi.runtimeconfig.dev.json
+D:\Proyectos\Iot-Lab\IOTLabWebApi\bin\Debug\netcoreapp2.0\IOTLabWebApi.dll
+D:\Proyectos\Iot-Lab\IOTLabWebApi\bin\Debug\netcoreapp2.0\IOTLabWebApi.pdb
+D:\Proyectos\Iot-Lab\IOTLabWebApi\obj\Debug\netcoreapp2.0\IOTLabWebApi.dll
+D:\Proyectos\Iot-Lab\IOTLabWebApi\obj\Debug\netcoreapp2.0\IOTLabWebApi.pdb
